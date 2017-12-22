@@ -1,0 +1,22 @@
+body{
+    font-family: arial;
+}
+
+li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    margin: 2px 5px;
+    padding: 2px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li{
+    float: right;
+}
