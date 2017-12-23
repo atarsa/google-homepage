@@ -4,10 +4,13 @@ body{
 /*========================
     GRID
   ======================*/
-
+main{
+    
+}
 
 #container{
-    max-width: 1200px;
+    max-width: 1662px;
+    margin: 0 auto;
     display: grid;
     grid-row-gap: 20px;
     grid-template-columns: 1fr 2fr 1fr;
